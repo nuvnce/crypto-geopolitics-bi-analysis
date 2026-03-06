@@ -1,0 +1,20 @@
+# Requirements pour le projet Crypto Geopolitics BI Analysis
+# Python 3.8+
+
+# Data Collection
+yfinance>=0.2.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Excel/CSV handling
+openpyxl>=3.1.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Optional: Data visualization (if running Python analysis)
+matplotlib>=3.6.0
+seaborn>=0.12.0

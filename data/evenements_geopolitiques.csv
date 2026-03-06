@@ -1,0 +1,31 @@
+Date,Evenement,Type,Region,Pays,Intensite,Annee,Mois,Trimestre
+2020-01-03,Assassinat du général iranien Soleimani par les USA,Conflit militaire,Moyen-Orient,"USA, Iran",9,2020,1,1
+2020-03-11,OMS déclare la pandémie COVID-19,Crise sanitaire mondiale,Mondiale,Tous,10,2020,3,1
+2020-03-23,Lockdown mondial - Krach boursier COVID,Crise économique,Mondiale,Tous,10,2020,3,1
+2020-05-25,Mort de George Floyd - Tensions sociales USA,Crise sociale,Amérique du Nord,USA,7,2020,5,2
+2020-11-03,Élection présidentielle USA (Biden vs Trump),Élection majeure,Amérique du Nord,USA,8,2020,11,4
+2021-01-06,Assaut du Capitole américain,Crise politique,Amérique du Nord,USA,9,2021,1,1
+2021-05-12,Conflit israélo-palestinien (Gaza),Conflit militaire,Moyen-Orient,"Israël, Palestine",8,2021,5,2
+2021-08-15,Chute de Kaboul - Retrait US d'Afghanistan,Conflit militaire,Asie centrale,"USA, Afghanistan",8,2021,8,3
+2021-09-24,Chine interdit les transactions crypto,Régulation crypto,Asie,Chine,9,2021,9,3
+2021-11-26,Variant Omicron COVID détecté,Crise sanitaire,Mondiale,Tous,7,2021,11,4
+2022-02-24,Invasion de l'Ukraine par la Russie,Guerre,Europe,"Russie, Ukraine",10,2022,2,1
+2022-03-01,Sanctions économiques massives contre la Russie,Sanctions économiques,Mondiale,"Russie, UE, USA",10,2022,3,1
+2022-05-11,Crash de Terra/LUNA (60 milliards $),Crise crypto,Mondiale,Tous,9,2022,5,2
+2022-06-15,Fed augmente taux de 0.75% (inflation),Politique monétaire,Mondiale,USA,8,2022,6,2
+2022-09-21,Mobilisation partielle en Russie,Guerre,Europe,Russie,9,2022,9,3
+2022-11-11,Effondrement de FTX (32 milliards $),Crise crypto,Mondiale,Tous,10,2022,11,4
+2023-03-10,Faillite Silicon Valley Bank (SVB),Crise bancaire,Amérique du Nord,USA,9,2023,3,1
+2023-03-19,Credit Suisse racheté par UBS (crise bancaire),Crise bancaire,Europe,Suisse,8,2023,3,1
+2023-06-04,SEC poursuit Binance et Coinbase,Régulation crypto,Amérique du Nord,USA,8,2023,6,2
+2023-10-07,Attaque du Hamas contre Israël - Début guerre Gaza,Conflit militaire,Moyen-Orient,"Israël, Hamas",10,2023,10,4
+2023-11-22,Sam Altman (OpenAI) évincé puis réintégré,Crise tech,Mondiale,USA,6,2023,11,4
+2024-01-10,Approbation des ETF Bitcoin spot par la SEC,Régulation crypto,Mondiale,USA,9,2024,1,1
+2024-03-01,Tensions USA-Chine sur Taiwan (manœuvres militaires),Tensions géopolitiques,Asie,"USA, Chine, Taiwan",8,2024,3,1
+2024-04-13,Attaque iranienne contre Israël (missiles/drones),Conflit militaire,Moyen-Orient,"Iran, Israël",9,2024,4,2
+2024-04-19,Bitcoin Halving (réduction récompense minage),Événement crypto technique,Mondiale,Tous,7,2024,4,2
+2024-07-13,Tentative d'assassinat de Donald Trump,Crise politique,Amérique du Nord,USA,8,2024,7,3
+2024-08-05,"Krach boursier mondial (VIX +65%, Nikkei -12%)",Crise financière,Mondiale,Tous,9,2024,8,3
+2024-10-01,Opération terrestre israélienne au Liban,Conflit militaire,Moyen-Orient,"Israël, Liban",8,2024,10,4
+2024-11-05,Élection présidentielle USA (Trump élu),Élection majeure,Amérique du Nord,USA,9,2024,11,4
+2025-01-20,Investiture de Donald Trump,Transition politique,Amérique du Nord,USA,7,2025,1,1

@@ -160,6 +160,8 @@ Les crises crypto endogènes (FTX, Terra/LUNA) génèrent un impact supérieur a
 │   ├── Rapport_Analyse_BI_Premium.pdf
 │   └── Fiche_Suivi_Projet_BI_Crypto.pdf
 ├── 🖼️ screenshots/                    # Captures dashboards
+│   ├── page_de_garde.jpg
+│   ├── plan.jpg
 │   ├── dashboard_1_overview.jpg
 │   ├── dashboard_2_volatility.jpg
 │   ├── dashboard_3_temporal.jpg
@@ -230,7 +232,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 📧 Contact
 
-**[Daniel ESSONANI]**  
+**Daniel Solim ESSONANI**  
 - 💼 LinkedIn : [Daniel ESSONANI](www.linkedin.com/in/daniel-essonani-208047369)
 - 📧 Email : solimessonani@gmail.com
 - 🌐 Portfolio : [nuvnce-data-ing.com](https://nuvnce.github.io/danielessonani.github.io/)

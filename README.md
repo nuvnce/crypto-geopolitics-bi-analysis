@@ -64,6 +64,11 @@ Les marchés crypto sont-ils réellement sensibles aux chocs géopolitiques ? Ce
 
 ## 📊 Dashboards Power BI
 
+### **Presentation : Page de garde**
+Page de présentation du projet avec quelques informations utiles
+
+![Presentation](screenshots/page_de_garde.jpg)
+
 ### **Dashboard 1 : Vue d'ensemble**
 Synthèse globale avec KPIs, timeline des prix, heatmap Crypto × Type d'événement
 
